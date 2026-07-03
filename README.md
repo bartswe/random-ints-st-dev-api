@@ -5,11 +5,9 @@
 
 <div markdown="1" align="center">
 
-![Build Status](https://bsski.semaphoreci.com/badges/RandomIntsStDevAPI/branches/main.svg?style=shields&key=b033d465-f52b-4169-8a0c-025b0586f456)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9fd1a96061671d7f7766/maintainability)](https://codeclimate.com/github/BSski/RandomIntsStDevAPI/maintainability)
 [![CodeFactor](https://www.codefactor.io/repository/github/bsski/random-ints-st-dev-api/badge)](https://www.codefactor.io/repository/github/bsski/random-ints-st-dev-api)
 <!-- [![Demo Uptime](https://img.shields.io/uptimerobot/ratio/7/m792386113-957fa47111c7ccefd3d8617e)](https://random-ints-st-dev-api.herokuapp.com/random/mean?requests=2&length=2) -->
-<!-- [![Heroku](https://pyheroku-badge.herokuapp.com/?app=django-music-bsski&style=flat)](https://random-ints-st-dev-api.herokuapp.com/random/mean?requests=2&length=3) -->
 
 
 <div markdown="1" align="center">    
@@ -17,15 +15,6 @@
 ![Demo Screenshot](https://i.imgur.com/OgMTzZX.png)
 
 </div>
-
-
-<h3 align="center">
-  :fireworks: Live demo :fireworks:
-</h3>
-
-<p align="center">
-  <b>[Heroku retracted its free tier, therefore all my demos are unavailable until further notice.]</b>
-</p>
 
 <!--
 <p align="center">
@@ -100,6 +89,6 @@ PORT=8080
 
 ## :construction_worker: Author
 
-- [@BSski](https://www.github.com/BSski)
+- [@bartswe](https://www.github.com/bartswe)
 
 </div>
